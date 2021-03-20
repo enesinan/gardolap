@@ -1,0 +1,1169 @@
+ul {
+    list-style: none;
+   }
+li {
+    list-style: none;
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.header {
+    display: flex;
+    width: 100rem;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    margin-left: -20rem;
+    background-color: white;
+    height: 12rem;
+}
+
+.nav-area {
+    margin-left: 66rem;
+    display: flex;
+    white-space: pre;
+    place-content: space-evenly;
+}
+
+.search-from {
+    margin-left: 20rem;
+    margin-top: 3.5rem;
+}
+
+.search {
+    width: 29rem;
+    margin-left: 9rem;
+    background: padding-box;
+    outline: none;
+
+}
+
+.category {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+    
+}
+
+.search-from input[type=search] {
+    padding: 12px;
+    font-size: 16px;
+    height: 47px;
+}
+
+.nav-marka {
+    margin-left: -3rem;
+    text-decoration: none;
+    color: gray;
+    position: absolute;
+    margin-top: 4rem;
+    
+}
+.nav-marka:hover {
+    transition: ease-in-out;
+    color: darkgrey;
+} 
+
+.nav-giris {
+    margin-left: 10rem;
+    text-decoration: none;
+    color: gray;
+    position: absolute;
+    margin-top: 4rem;
+}
+
+.nav-giris:hover {
+    transition: ease-in-out;
+    color: darkgrey;
+}
+
+.logo-text {
+    display: grid;
+    position: absolute;
+    margin-left: 6rem;
+    margin-top: 5rem;
+    font-size: small;
+    font-weight: 350;
+
+}
+
+.logo {
+    position: absolute;
+    margin-top: 1rem;
+    margin-left: 5.7rem;
+    color: springgreen;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+
+.category-giyim {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    margin-top: 0.5rem;
+    display: block;
+}
+
+.category-canta {
+    text-decoration: none;
+}
+
+.category-ayakkabı {
+    text-decoration: none;
+}
+
+.category-aksesuar {
+    text-decoration: none;
+}
+
+.category-header1 {
+    background-color: #9176ce;
+    width: 25rem;
+    text-align: center;
+    margin-left: -7.1rem;
+    height: 3rem;
+}
+
+.category-header2 {
+    background-color: #60d3b1;
+    width: 25rem;
+    text-align: center;
+    height: 3rem;
+    margin-left: -6rem;
+}
+
+.category-canta {
+    text-decoration: none;
+    display: block;
+    margin-top: 0.5rem;
+    font-size: larger;
+    color: white;
+}
+
+.category-header3 {
+    background-color: #eb5e7b;
+    width: 27rem;
+    text-align: center;
+}
+
+.category-ayakkabı {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: large;
+    color: white;
+}
+
+.category-header4 {
+    background-color: #f1cd71;
+    margin-right: -10rem;
+    width: 20rem;
+    text-align: center;
+}
+
+.category-aksesuar {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: large;
+    color: white;
+
+}
+
+.banner-background {
+    width: 70rem;
+    height: 30rem;
+}
+
+.main-text {
+    display: block;
+    position: relative;
+    margin-top: -25rem;
+    margin-left: 5rem;
+    color: white;
+    font-family: monospace;
+}
+
+.main-apple {
+    display: block;
+    margin-left: 3rem;
+    width: 10rem;
+    margin-top: 2rem;
+}
+
+.main-google {
+    display: block;
+    margin-left: 16rem;
+    margin-top: -4.1rem;
+    width: 10rem;
+}
+
+.banner-phone {
+    display: block;
+    position: absolute;
+    margin-left: 40rem;
+    width: 25rem;
+    height: 25rem;
+    margin-top: -28rem;
+}
+
+.main-text-mini {
+    margin-left: 5.5rem;
+    margin-top: 2rem;
+    color: white;
+}
+
+.main-input {
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+
+.main-icon {
+    display: block;
+    position: absolute;
+    height: 2.5rem;
+    margin-top: -0.1rem;
+    margin-left: 3rem;
+}
+
+.main-input {
+    width: 25rem;
+    height: 3.5rem;
+    text-align: center;
+    outline: none;
+    margin-left: 2.5rem;
+    margin-top: -0.5rem;
+    border: 3px solid #d6d7d8;
+    border-radius: 10px;
+    background: border-box;
+    width: 30rem;
+}
+
+.btn-default {
+    margin-left: 389px;
+    margin-top: rem;
+    display: block;
+    position: absolute;
+    margin-top: -3.4rem;
+    height: 51px;
+    border: 2px solid #fff;
+    width: 8rem;
+    color: #4d2f91;
+    font-size: 22px;
+    background-color: #fff
+}
+.main-input::placeholder { 
+    color: white;
+    opacity: 1; 
+  }
+
+  .product {
+    margin-top: 10rem;
+  }
+
+  .product-1 {
+    margin-top: -2rem;
+    width: 20rem;
+    background: floralwhite;
+  }
+
+  .product-seller-1 {
+    margin-top: 0rem;
+    width: 3rem;
+    background: floralwhite;
+  }
+
+  .product-1-image {
+    width: 20rem;
+  }
+
+  .product-seller1-text {
+      text-decoration: none;
+      color: gray;
+
+  }
+  .product-seller1-text:hover {
+      color:black;
+  } 
+
+  .product1-span {
+      color: gray;
+  }
+
+  .detail-footer-marka {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: larger;
+  }
+
+  .detail-footer-beden {
+    margin-left: 1rem;
+  }
+
+  .detail-footer-price {
+    margin-left: 16rem;
+    font-size: larger;
+  }
+  
+  .col-begen-1 {
+    margin-left: 3rem;
+    margin-top: 1rem;
+  }
+
+  .col-yorum-1 {
+    margin-left: 11rem;
+    display: block;
+    margin-top: -1.5rem;
+  }
+  .col-begen-1:hover {
+      color: gray;
+  }
+  .col-yorum-1:hover {
+      color: gray;
+  }
+  .product-2 {
+    margin-top: -32rem;
+    margin-left: 25rem;
+  }
+  .product-seller-2 {
+    width: 3rem;
+  }
+  .product-2 {
+    width: 20rem;
+    display: block;
+    background-color: floralwhite;
+  }
+  .detail-head {
+      margin-top: 0.4rem;
+  }
+  .product2-seller-text {
+      text-decoration: none;
+      color: gray;
+  }
+  .product2-seller-text:hover {
+      color: black;
+  }
+  .product2-span {
+      color: gray;
+  }
+  .product2-detail-image {
+      width: 20rem;
+      height: 20rem;
+  }
+  .col-begen-2 {
+    margin-top: 1.5rem;
+    margin-left: 3.5rem;
+  }
+  .col-begen-2:hover {
+      color: gray;
+  }
+  .col-yorum-2 {
+    margin-left: 12rem;
+    margin-top: -1.5rem;
+  }
+  .col-yorum-2:hover {
+      color: gray;
+  }
+  .product-3 {
+    width: 20rem;
+    margin-left: 50rem;
+    margin-top: -32.5rem;
+    background-color: floralwhite;
+  }
+  .product-seller-3 {
+      width: 3rem;
+  }
+  .product3-seller-text {
+    text-decoration: none;
+    color: gray;
+  }
+  .product3-seller-text:hover {
+    color: black;
+}
+  .product3-span {
+      color: gray;
+  }
+  .product3-detail-image {
+     width: 20rem;
+     height: 20rem;
+  }
+  .col-begen-3 {
+    margin-top: 1.9rem;
+    margin-left: 3.2rem;
+  }
+  .col-begen-3:hover {
+      color:gray;
+  }
+  .col-yorum-3 {
+    margin-left: 11rem;
+    margin-top: -1.6rem;
+  }
+  .col-yorum-3:hover {
+      color: gray;
+  }
+  .product-4 {
+    width: 20rem;
+    background-color: floralwhite;
+  }
+  .product-seller-4 {
+      width: 3rem;
+  }
+  .product4-seller-text {
+      text-decoration: none;
+      color:gray;
+  }
+  .product4-seller-text:hover {
+      color: black;
+  }
+  .product4-span {
+      color: gray;
+  }
+  .product4-detail-image {
+    width: 20rem;
+  }
+  .col-begen-4 {
+    margin-left: 3rem;
+    margin-top: 1.9rem;
+  }
+  .col-yorum-4 {
+    margin-left: 11rem;
+    margin-top: -1.6rem;
+  }
+  .col-begen-4:hover {
+      color: gray;
+  }
+  .col-yorum-4:hover {
+      color: gray;
+  }
+  .product-5 {
+    width: 20rem;
+    background-color: floralwhite;
+    margin-left: 25rem;
+    margin-top: -32.2rem;
+  }
+  .product-seller-5 {
+      width: 3rem;
+  }
+  .product5-seller-text {
+      text-decoration: none;
+      color: gray;
+  }
+  .product5-seller-text:hover {
+      color: black;
+  }
+  .product5-span {
+      color: gray;
+  }
+  .product5-detail-image {
+      width: 20rem;
+  }
+  .col-begen-5 {
+      margin-left: 3.2rem;
+      margin-top: 1.9rem;
+  }
+  .col-begen-5:hover {
+      color: gray;
+  }
+  .col-yorum-5 {
+      margin-left: 11rem;
+      margin-top: -1.6rem;
+  }
+  .col-yorum-5:hover {
+      color: gray;
+  } 
+  .product-6 {
+    width: 20rem;
+    background-color: floralwhite;
+    margin-left: 50rem;
+    margin-top: -32.5rem;
+  }
+  .product-seller-6 {
+      width: 3rem;
+  }
+  .product6-seller-text {
+      text-decoration: none;
+      color: gray;
+  }
+  .product6-span {
+      color: gray;
+  }
+  .product6-detail-image{
+      width: 20rem;
+  }
+  .col-begen-6 {
+      margin-top: 1.9rem;
+      margin-left: 3rem;
+  }
+  .col-yorum-6 {
+      margin-left: 11rem;
+      margin-top: -1.6rem;
+  }
+  .col-begen-6:hover {
+      color: gray;
+  }
+  .col-yorum-6:hover {
+      color: gray;
+  }
+  .most-search {
+    background-color: floralwhite;
+    margin-top: 1.5rem;
+  }
+   
+  .most-words-1 {
+      margin-top: 1rem;
+      border: 1px solid black;
+      background-color: white;
+      font-weight: 500;
+      transition: 0.5s;
+
+  }
+  .most-words-1:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-2 {
+    margin-left: 5rem;
+    margin-top: rem;
+    display: block;
+    margin-top: -1.7rem;
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    transition: 0.5s;
+  }
+  .most-words-2:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-3 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    margin-left: 12rem;
+    margin-top: -1.8rem;
+    display: block;
+    transition: 0.5s;
+  }
+  .most-words-3:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-4 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 20rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-4:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-5 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 26rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-5:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-6 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 35rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-6:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-7 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 45rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-7:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-8 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    transition: 0.5s;
+  }
+  .most-words-8:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-9 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 6rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-9:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-10 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 12rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-10:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-11 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 20rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-11:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-12 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 27rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-12:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-13 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 35rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-13:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-14 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 45rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-14:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-15 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    transition: 0.5s;
+  }
+  .most-words-15:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-16 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 6rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-16:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-17 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 13rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-17:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-18 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 20rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-18:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-19 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 28rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-19:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-20 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 35rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-20:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-21 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 45rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-21:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-22 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    transition: 0.5s;
+  }
+  .most-words-22:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-23 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 8.5rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-23:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-24 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 16rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-24:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-25 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 25rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+  }
+  .most-words-25:hover {
+    background-color: black;
+    color: white;
+    
+}
+  .most-words-26 {
+    border: 1px solid black;
+    background-color: white;
+    font-weight: 500;
+    display: block;
+    margin-left: 33rem;
+    margin-top: -1.8rem;
+    transition: 0.5s;
+}
+  
+  .most-words-26:hover {
+      background-color: black;
+      color: white;
+      
+  }
+  .comments {
+    background-color: floralwhite;
+    height: 50rem;
+  }
+  .comment-img-1 {
+    width: 10rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+  }
+  .comment-title {
+    display: block;
+    margin-left: 20rem;
+    margin-top: -10rem;
+    font-size: larger;
+  }
+  .comment-date-span {
+    margin-left: 15rem;
+  }
+  .comment-content-span {
+    margin-left: 15rem;
+  }
+  .comment-img-2 {
+    width: 10rem;
+    margin-top: 9rem;
+    margin-left: 2rem;
+  }
+  .comment-title-span-2 {
+    display: block;
+    margin-left: 20rem;
+    margin-top: -13rem;
+    font-size: larger;
+  }
+  .comment-date-span-2 {
+    margin-left: 15rem;
+  }
+  .comment-content-span-2 {
+    margin-left: 15rem;
+  }
+  .comment-img-3 {
+    width: 10rem;
+    margin-top: 12rem;
+    margin-left: 2rem;
+  }
+  .comment-title-3 {
+    display: block;
+    font-size: larger;
+    margin-top: -13rem;
+  }
+  .comment-date-span-3 {
+    margin-left: 15rem;
+  }
+  .comment-content-span-3 {
+    margin-left: 15rem;
+
+  }
+  .about {
+      height: 13rem;
+  }
+  .about-content {
+      margin-top: 3rem;
+      background-color: floralwhite;
+  }
+  .about-title {
+      margin-top: 1rem;
+  }
+  .footer-logo {
+      margin-top: 11rem;
+  }
+  .footer-image {
+    margin-top: 10rem;
+    background-color: rgb(124, 221, 186);
+    margin-left: -5.1rem;
+    width: 80rem;
+  }
+  .footer-logo {
+    margin-left: 40rem;
+    margin-top: -25rem;
+  }
+  .footer-google {
+    margin-left: 5rem;
+  }
+  .footer-links {
+    margin-left: 30rem;
+    margin-top: 10rem;
+  }
+  .footer-item {
+    text-align: center;
+  }
+  .footer-category {
+    display: table-caption;
+    margin-top: -2rem;
+    
+  }
+  .footer-category-bot{
+    display: block;
+  }
+  .footer-category-bot:hover {
+    color: gray;
+  }
+  .footer-category-add {
+    display: table-caption;
+    margin-left: 10rem;
+    margin-top: -6rem;
+  }
+  .footer-hamile:hover {
+    color: gray;
+  }
+  .footer-bebek:hover {
+    color: gray;
+  }
+  .footer-most-search {
+    display: table-caption;
+    margin-left: 20rem;
+    margin-top: -10rem;
+  }
+  .footer-most-search-add {
+    display: table-caption;
+    margin-top: -9rem;
+    margin-left: 29rem;
+  }
+  .footer-abot-gardolap {
+    width: 1rem;
+    display: block;
+    position: absolute;
+    margin-top: -15rem;
+    margin-left: 35rem;
+  }
+  .footer-item {
+    margin-top: 4rem;
+    margin-left: 10rem;
+    display: block;
+    position: relative;
+    justify-content: space-between;
+  }
+  .footer-erkek-cocuk {
+    margin-left: 2.8rem;
+    display: contents;
+    margin-top: -1.5rem;
+  }
+  .footer-erkek-cocuk:hover {
+    color: gray;
+  }
+  .footer-kız-cocuk {
+    display: contents;
+    margin-left: 1.7rem;
+    margin-top: -1.5rem;
+  }
+  .footer-kız-cocuk:hover {
+    color: gray;
+  } 
+  .footer-tesettur:hover {
+    color: gray;
+  }
+  .footer-aramalar-1 {
+    margin-left: 0rem;
+    display: block;
+    margin-top: -4rem;
+  }
+  .footer-aramalar-2 {
+    margin-left: 9rem;
+    margin-top: 5rem;
+  }
+  .footer-zara:hover {
+    color: gray;
+  }
+  .footer-mongo:hover {
+    color: gray;
+  }
+  .footer-nike:hover {
+    color: gray;
+  }
+  .footer-HM:hover {
+    color: gray;
+  }
+  .footer-ipekyol:hover {
+     color: gray;
+  }
+  .footer-louis:hover {
+    color: gray;
+  }
+  .footer-vouitton:hover {
+    color: gray;
+  }
+  .footer-michael:hover {
+    color: gray;
+  }
+  .footer-kors:hover {
+    color: gray;
+  }
+  .footer-gucci:hover {
+    color: gray;
+  }
+  .footer-channel:hover {
+    color: gray;
+  }
+  .footer-prada:hover {
+    color:gray;
+  }
+  .footer-gardolap:hover {
+    color: gray;
+  }
+  .footer-hakkında:hover {
+    color: gray;
+  }
+  .footer-kullanıcı:hover {
+    color: gray;
+  }
+  .footer-sozlesme:hover {
+    color: gray;
+  }
+  .footer-iletisim:hover {
+    color: gray;
+  }
+  .footer-destek:hover {
+    color: gray;
+  }
+  .footer-satıcı:hover {
+    color: gray;
+  }
+  .footer-sorular:hover {
+    color: gray;
+  }
+  .footer-alıcı:hover {
+    color:gray;
+  }
+  .footer-sorular2:hover {
+    color: gray;
+  }
+  .footer-gizlilik:hover {
+    color: gray;
+  }
+  .footer-politika:hover {
+    color: gray;
+  }
+  .footer-kol-canta {
+    display: block;
+  }
+  .footer-kol-canta:hover {
+    color: gray;
+  } 
+  .footer-mont {
+    display: block;
+  }
+  .footer-mont:hover {
+    color: gray;
+  } 
+  .footer-kazak {
+    display: block;
+  }
+  .footer-kazak:hover {
+    color: gray;
+  } 
+  .footer-cizme:hover {
+    color: gray;
+  }
+  .footer-item-one {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 3rem;
+    background: transparent;
+    height: 3rem;
+    transition: 0.5s;
+   
+  }
+  .footer-item-one:hover {
+    
+    background-color: black;
+  } 
+  .footer-item-two {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    background: transparent;
+    transition: 0.5s;
+  }
+  .footer-item-two:hover {
+    
+    background-color: black;
+  } 
+  .footer-item-three {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    background: transparent;
+    transition: 0.5s;
+
+  }
+  .footer-item-three:hover {
+    
+    background-color: black;
+  } 
+
+
+
+  
