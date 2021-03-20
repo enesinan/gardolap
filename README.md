@@ -3,7 +3,7 @@ This is a clone project, we cloned dolap.com </br>
 </br>
 
 # LİVE 
-* <a href="https://enes-dev.github.io/gardolap/" >To check out the live demo of this app</a>
+* <a href="https://enes-dev.github.io/gardolap/">To check out the live demo of this app</a>
 </br></br>
 
 
