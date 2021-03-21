@@ -9,7 +9,7 @@ This is a clone project, we cloned dolap.com </br>
 </br></br>
 
 # LIGHT HOUSE
-</br></br>
+</br>
 
 <img width="1395" alt="Screenshot_2021-03-21_at_12 19 18" src="https://user-images.githubusercontent.com/72499839/111911382-70e8a180-8a76-11eb-8c5c-82e52319091d.png">
 </br>
