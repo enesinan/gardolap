@@ -8,15 +8,15 @@ This is a clone project, we cloned dolap.com </br>
 * <a href="https://enes-dev.github.io/gardolap/">To check out the live demo of this app</a>
 </br></br>
 
+
+![gardolap-screenshot](https://user-images.githubusercontent.com/72499839/111865916-fb4bdb00-897a-11eb-8f56-657e9198e340.png)
+</br>
 # LIGHT HOUSE
 </br>
 
 <img width="1395" alt="Screenshot_2021-03-21_at_12 19 18" src="https://user-images.githubusercontent.com/72499839/111911382-70e8a180-8a76-11eb-8c5c-82e52319091d.png">
 </br>
 
-
-
-![gardolap-screenshot](https://user-images.githubusercontent.com/72499839/111865916-fb4bdb00-897a-11eb-8f56-657e9198e340.png)
 
 
 # LICENSE
