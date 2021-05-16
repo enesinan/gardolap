@@ -10,7 +10,7 @@ This is a clone project, we cloned dolap.com </br>
 
 # LIVE 
 
-* <a href=" https://enesinan.github.io/gardolap/">To check out the live demo of this app</a>
+* <a href="https://enesinan.github.io/gardolap/">To check out the live demo of this app</a>
 </br></br>
 
 
